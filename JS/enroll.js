@@ -3,7 +3,7 @@ function getInfo() {
 	var email = document.getElementById('email').value;
 	var password = document.getElementById('password').value;
 
-		if(username == 'user1' && email == 'user1@gmail.com' && password == 'DesignSites') {
+		if(username == 'user1' && email == 'user1@gmail.com' && password == 'DesignSites2') {
 			window.location.href = '/Member/course-member.html';
 		}
 
